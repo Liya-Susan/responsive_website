@@ -137,5 +137,6 @@ nav .fa{
        margin: 10px;
        top: 100%;
        left:20%;
+       position:'centre';
     }
 }
