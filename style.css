@@ -56,7 +56,7 @@ img{
     margin: 10px;
     position: relative;
     cursor:pointer;
-    transition:0.5s;
+    
     
     
 }
@@ -137,6 +137,5 @@ nav .fa{
        margin: 10px;
        top: 100%;
        left:20%;
-       position:'centre;
     }
 }
